@@ -1,0 +1,14 @@
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    height: 600px;
+    width: 600px;
+    margin: auto;
+
+    padding-top: 50px;
+}
+
